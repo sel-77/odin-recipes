@@ -1,0 +1,97 @@
+body {
+    background-color: #FCFBF6;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    margin-left: 20px;
+}
+
+#mainheader .head.main.nav_link {
+    display: inline-block;
+    color: #4A554E;
+    text-decoration: none;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#disheslist {
+    display: block;
+}
+
+#disheslist .recipe_link {
+    display: block;
+    color: #E76F51;
+    text-decoration: none;
+    height: auto;
+    width: fit-content;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0px 10px 0px;
+}
+
+.block.recipe .section.head {
+    background-color: #A7BEAE;
+    margin: 0px -20px;
+}
+
+.block.recipe .head.recipe {
+    color: #E76F51;
+    font-size: 35px;
+    font-weight: bold;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.block.recipe .img.recipe {
+    height: auto;
+    width: 500px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
+.section {
+    margin: 50px 0px;
+}
+
+.section.desc {
+    margin-top: 0px;
+}
+
+.section.desc .head {
+    color: #F4A261;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.section.desc .content {
+    font-size: 18px;
+    margin-top: -20px;
+}
+
+.ing_ste {
+    background-color: #A7BEAE;
+    margin-top: -15px;
+    margin-left: -20px;
+    padding: 1px 0px 10px 10px;
+}
+
+.ing_ste .section.details {
+    margin-left: 10px;
+}
+
+.ing_ste .section.details .head {
+    color: #F4A261;
+    text-decoration: underline;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 10px 0px -3px 0px;
+}
+
+.ing_ste .section.details li {
+    margin-left: -20px;
+    margin-bottom: 10px;
+}
+
+.ing_ste .section.details li{
+    margin-left: -20px;
+    margin-bottom: 10px;
+}
